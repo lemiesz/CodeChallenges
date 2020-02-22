@@ -17,6 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lemiesz/sorting": "^0.0.0"
+    "@lemiesz/sorting": "^0.0.0",
+    "jest": "^25.1.0"
   }
 }
