@@ -1,0 +1,19 @@
+{
+  "name": "@lemiesz/sorting",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Robert Lemiesz <lemieszrobert@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/sorting.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  }
+}

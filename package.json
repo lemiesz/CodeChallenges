@@ -1,0 +1,16 @@
+{
+	"name": "CodeChallenges",
+	"version": "1.0.0",
+	"description": "",
+	"main": "havel-hakim.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^24.8.0",
+		"lerna": "^3.20.2"
+	}
+}
